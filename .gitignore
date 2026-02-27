@@ -1,0 +1,7 @@
+plan.txt
+output.txt
+/test
+/matching_results
+/.vscode
+# ignore all output files
+*.o
