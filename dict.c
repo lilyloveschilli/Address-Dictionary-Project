@@ -1,3 +1,8 @@
+/* 
+code produced for A1 for the subject COMP20003 Algorithms and Data Strucres S2 2025 
+at the Univeristy of Melbourne
+Authored by Lily Robertson and Cassie Watson
+*/ 
 #include <stdio.h>
 #include <stdlib.h>
 #include <assert.h>
